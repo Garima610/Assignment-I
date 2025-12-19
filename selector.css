@@ -1,0 +1,27 @@
+*{   
+  margin-left: 20px;
+}
+p{
+  color: purple;
+}
+.intro{
+  text-decoration: underline;
+  color:yellowgreen;
+}
+.name ~ h3{
+  color: blue;
+}
+.course+li{
+  font-style: italic;
+  color:red;
+}
+#here:hover{
+  background-color: aquamarine;
+}
+input[type="email"]{
+  font-weight: bold;
+  color: blueviolet;
+}
+.submit:active{
+  background-color: blanchedalmond;
+}
